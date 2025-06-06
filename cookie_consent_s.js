@@ -22,7 +22,7 @@
     banner.style.cssText = `
       position: fixed; bottom: 0; left: 0; right: 0; background: #333; color: #fff;
       padding: 1em; display: flex; justify-content: center; align-items: center;
-      z-index: 1000;
+      z-index: 99999; width:100%;
     `;
   }
 
